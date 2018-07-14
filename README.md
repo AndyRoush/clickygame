@@ -1,4 +1,5 @@
-# Clicky game
+# Clicky game - A memory game using REACT
+
 Instructions  
 1. Create a new React application using Create React App.  
 2. The application should render different images (of your choice) to the screen. Each image should listen for click events.  
